@@ -25,7 +25,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'chiyasan.apps.ChiyasanConfig',
+    'core.apps.CoreConfig',
 ]
 
 MIDDLEWARE = [

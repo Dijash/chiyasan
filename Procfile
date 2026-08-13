@@ -1,0 +1,1 @@
+gunicorn chiyasan:wsgi
